@@ -1,0 +1,8 @@
+# OS / Editor artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*~
+.vscode/
+.idea/
